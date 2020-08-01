@@ -1,0 +1,146 @@
+@media only screen and (max-width:550px){
+    
+    .container {
+        width: 320px;
+    }
+    .header-logo {
+        height: 100px;
+        margin-top: 10px;
+    }
+    .header-ul {
+        margin-top: -80px;
+        margin-left: 130px;
+    }
+    .title-text {
+        flex: 0 0 100%;
+        width: 100%;
+        margin: 50px auto;
+        font-size: 25px;
+    }
+    .title-image {
+        flex: 0 0 100%;
+        width: 100%;
+        margin-left: -75px;
+        text-align: center;
+    }
+    .slide1 {
+        flex: 0 0 100%;
+        width: 100%;
+        margin-top: 30px ;
+        margin-bottom: 0px;
+    }
+    .slide1 h2 {
+        font-size: 30px;
+    }
+    .slide1 p {
+        font-size: 15px;
+    }
+    .slide2 {
+        flex: 0 0 100%;
+        width: 100%;
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    .slide-2-1 {
+        flex: 0 0 100%;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .slide-2-1 img {
+        height: 25vh;
+        size: 100%;
+        margin-left: 40px;
+        margin-top: 0px;
+        border-radius: 20px;
+    }
+    .slide2 h3 {
+        font-size: 40px;
+    }
+    .slide2 p {
+        font-size: 15px;
+    }
+    .slide3 {
+        flex: 0 0 100%;
+        width: 100%;
+        margin: auto;
+        margin-top: 0px ;
+        margin-bottom: 0px;
+    }
+    .slide3 img {
+        margin: 0px 10px;
+        height: 60vh;
+        border-radius: 20px;
+    }
+    .slide-3-1 {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+    .slide-3-1-2{
+        flex: 0 0 50%;
+        width: 50%;    
+    }
+    .slide-3-1 p {
+        font-size: 15px;
+    }
+    .slide-3-1-2 p{
+        font-size: 13px;
+    }
+    .slide4 {
+        flex: 0 0 100%;
+        width: 100%;
+        text-align: center;
+        border: 1px solid rgba(0, 0, 0, 0.24);
+        padding: 20px;
+        border-radius: 20px;
+    }
+    .slide4 ul li {
+        list-style-type: none;
+    }
+    .slide4-1 {
+        flex: 0 0 100%;
+        width: 100%;
+        text-align: center;
+        border: 1px solid rgba(0, 0, 0, 0.24);
+        padding: 20px;
+        border-radius: 20px;
+    }
+    .content-5 {
+        border-bottom: none;
+    }
+    .slide5 {
+        flex: 0 0 100%;
+    }
+    .slide5 p {
+        margin: 30px 10px;
+    }
+    .content-6 {
+        font-size: 15px;
+        text-align: center;
+        margin-left: 70px;
+        margin-bottom: 60px;
+        margin-top: 50px;
+    }
+    .content-6 p {
+        margin-top: 100px;
+        text-align: center;
+    }
+    .content-6 a {
+        margin-left: 75px;
+    }
+    .footer-div {
+        flex: 0 0 100%;
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 20px;
+        text-align: left;
+        padding: 10px;
+        color: white;
+    }
+    .footer-logo{
+        height: 170px;
+        width: auto;
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+}
